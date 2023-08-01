@@ -1,4 +1,4 @@
-# MoveBit Sampled Audit Reports
+# ScaleBit Sampled Audit Reports
 
 | Audit Name                        |   Chain   |                                  Audit Report                                   |
 | :----------------------------- | :---------: | :-----------------------------------------------------------------------: |
