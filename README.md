@@ -2,6 +2,7 @@
 
 | Audit Name                        |   Chain   |                                  Audit Report                                   |
 | :----------------------------- | :---------: | :-----------------------------------------------------------------------: |
+| Zomma Protocol       |     Linea     |     Coming Soon
 | IoTeX       |     IoTeX     |     Coming Soon
 | AWT IDO Claim       |     Polygon     |     <a href="./reports/AWT-IDO-Claim-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | iZUMi       |     zkSync     |     <a href="./reports/iZUMi-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
