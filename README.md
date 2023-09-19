@@ -2,6 +2,11 @@
 
 | Audit Name                        |   Chain   |                                  Audit Report                                   |
 | :----------------------------- | :---------: | :-----------------------------------------------------------------------: |
+| MobyDex        |     opBNB     |     <a href="https://www.scalebit.xyz/reports/MobyDEX-Smart-Contract-Audit-Report.pdf" target="MobyDex"><img width="20" src="./pdf.png" /></a>
+| Trias       |     Polygon     |     <a href="https://movebit.xyz/reports/Trias-Audit-Report.pdf" target="Trias"><img width="20" src="./pdf.png" /></a>
+| 10K Swap        |     Starknet     |     Coming Soon
+| Zk2048(ZKP)       |     Starknet     |     Coming Soon
+| zkHoldem(ZKP)       |     Arbitrum/Linea/Manta      |     Coming Soon
 | Zomma Protocol       |     Linea     |     Coming Soon
 | IoTeX       |     IoTeX     |     Coming Soon
 | AWT IDO Claim       |     Polygon     |     <a href="./reports/AWT-IDO-Claim-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
