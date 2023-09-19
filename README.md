@@ -24,5 +24,5 @@
 | KriyaDEX        |     Sui     |     <a href="./reports/KriyaDEX-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | MSafe Maven        |     Sui     |     <a href="./reports/Maven-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>          |
 | Cetus Concentrated Liquidity Protocol(Sui)        |     Sui     |     <a href="./reports/Cetus-Concentrated-Liquidity-Protocol-Sui-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
-| MoveVM        |     Aptos / Sui / Starcoin     |             |
+| MoveVM        |     Aptos / Sui / Starcoin     |              |
 
