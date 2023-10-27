@@ -14,7 +14,7 @@
 | SURFI       |     Linea     |     <a href="./reports/SURFI-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Velocore       |     Linea     |     <a href="./reports/Velocore-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | EchoDEX       |     Linea     |     <a href="./reports/EchoDEX-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
-| Mendi Finance       |     Linea     |     Coming Soon
+| Mendi Finance       |     Linea     |     <a href="https://scalebit.xyz/reports/Mendi-Finance-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Scallop       |     Sui     |     <a href="./reports/Scallop-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Bucket Protocol       |     Sui     |     <a href="./reports/Bucket-Protocol-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Turbos Finance-TurboStar        |     Sui     |     <a href="./reports/TurboStar-Smart-Contract-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
