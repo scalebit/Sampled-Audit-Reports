@@ -6,7 +6,7 @@
 | MobyDex        |     opBNB     |     <a  target="_blank" href="https://www.scalebit.xyz/reports/MobyDEX-Smart-Contract-Audit-Report.pdf" ><img width="20" src="./pdf.png" /></a>
 | Trias       |     Polygon     |     <a target="Trias" href="https://movebit.xyz/reports/Trias-Audit-Report.pdf" ><img width="20" src="./pdf.png" /></a>
 | 10K Swap        |     Starknet     |     <a  target="_blank" href="https://scalebit.xyz/reports/10K-Swap-Audit-Report.pdf" ><img width="20" src="./pdf.png" /></a>
-| Zk2048(ZKP)       |     Circom     |     Coming Soon
+| Zk2048(ZKP)       |     Circom     |     <a  target="_blank" href="https://scalebit.xyz/reports/zk2048-Audit-Report.pdf" ><img width="20" src="./pdf.png" /></a>
 | zkHoldem(ZKP)       |     Arbitrum/Linea/Manta      |     Coming Soon
 | Zomma Protocol       |     Linea     |     Coming Soon
 | IoTeX       |     IoTeX     |     Coming Soon
