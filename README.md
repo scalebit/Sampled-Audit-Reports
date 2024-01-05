@@ -2,16 +2,15 @@
 
 | Audit Name                        |   Chain   |                                  Audit Report                                   |
 | :----------------------------- | :---------: | :-----------------------------------------------------------------------: |
-| ZKFair Smart Contract        |     ZKFair/ETH      |     <a  target="_blank" href="https://scalebit.xyz/reports/ZKFair-Smart-Contract-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
-| ZKFair        |     ZKFair/ETH     |     <a  target="_blank" href="https://scalebit.xyz/reports/ZKFair-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
-| zkHoldem Smart Contract        |     zkSync Era     |     <a  target="_blank" href="https://scalebit.xyz/reports/zkHoldem-Smart-Contract-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| ZKFair Smart Contract        |     ZKFair/Ethereum      |     <a  target="_blank" href="https://scalebit.xyz/reports/ZKFair-Smart-Contract-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| ZKFair        |     ZKFair/Ethereum     |     <a  target="_blank" href="https://scalebit.xyz/reports/ZKFair-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Micro3        |     BSC     |     <a  target="_blank" href="https://scalebit.xyz/reports/Mirco3-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Starksport        |     Starknet     |     <a  target="_blank" href="https://scalebit.xyz/reports/Starksport-Final-Audit-Report.pdf" ><img width="20" src="./pdf.png" /></a>
 | MobyDex        |     opBNB     |     <a  target="_blank" href="https://www.scalebit.xyz/reports/MobyDEX-Smart-Contract-Audit-Report.pdf" ><img width="20" src="./pdf.png" /></a>
 | Trias       |     Polygon     |     <a target="Trias" href="https://movebit.xyz/reports/Trias-Audit-Report.pdf" ><img width="20" src="./pdf.png" /></a>
 | 10K Swap        |     Starknet     |     <a  target="_blank" href="https://scalebit.xyz/reports/10K-Swap-Audit-Report.pdf" ><img width="20" src="./pdf.png" /></a>
 | Zk2048(ZKP)       |     Circom     |     <a  target="_blank" href="https://scalebit.xyz/reports/zk2048-Audit-Report.pdf" ><img width="20" src="./pdf.png" /></a>
-| zkHoldem(ZKP)       |     Arbitrum/Linea/Manta      |     Coming Soon
+| zkHoldem(ZKP)       |     Arbitrum/Linea/Manta      |     <a  target="_blank" href="https://scalebit.xyz/reports/zkHoldem-Smart-Contract-Final-Audit-Report.pdf" ><img width="20" src="./pdf.png" /></a>
 | Zomma Protocol       |     Linea     |     Coming Soon
 | IoTeX       |     IoTeX     |     Coming Soon
 | AWT IDO Claim       |     Polygon     |     <a href="./reports/AWT-IDO-Claim-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
