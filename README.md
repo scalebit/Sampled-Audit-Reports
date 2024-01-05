@@ -2,6 +2,9 @@
 
 | Audit Name                        |   Chain   |                                  Audit Report                                   |
 | :----------------------------- | :---------: | :-----------------------------------------------------------------------: |
+| ZKFair Smart Contract        |     ZKFair/ETH      |     <a  target="_blank" href="https://scalebit.xyz/reports/ZKFair-Smart-Contract-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| ZKFair        |     ZKFair/ETH     |     <a  target="_blank" href="https://scalebit.xyz/reports/ZKFair-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| zkHoldem Smart Contract        |     zkSync Era     |     <a  target="_blank" href="https://scalebit.xyz/reports/zkHoldem-Smart-Contract-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Micro3        |     BSC     |     <a  target="_blank" href="https://scalebit.xyz/reports/Mirco3-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Starksport        |     Starknet     |     <a  target="_blank" href="https://scalebit.xyz/reports/Starksport-Final-Audit-Report.pdf" ><img width="20" src="./pdf.png" /></a>
 | MobyDex        |     opBNB     |     <a  target="_blank" href="https://www.scalebit.xyz/reports/MobyDEX-Smart-Contract-Audit-Report.pdf" ><img width="20" src="./pdf.png" /></a>
