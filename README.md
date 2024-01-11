@@ -2,6 +2,7 @@
 
 | Audit Name                        |   Chain   |                                  Audit Report                                   |
 | :----------------------------- | :---------: | :-----------------------------------------------------------------------: |
+| Ethora        |     Base      |     <a  target="_blank" href="https://scalebit.xyz/reports/Ethora-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | ZKFair Smart Contract        |     ZKFair/Ethereum      |     <a  target="_blank" href="https://scalebit.xyz/reports/ZKFair-Smart-Contract-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | ZKFair        |     ZKFair/Ethereum     |     <a  target="_blank" href="https://scalebit.xyz/reports/ZKFair-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Micro3        |     BSC     |     <a  target="_blank" href="https://scalebit.xyz/reports/Mirco3-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
