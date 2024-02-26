@@ -12,7 +12,7 @@
 | 10K Swap        |     Starknet     |     <a  target="_blank" href="https://scalebit.xyz/reports/10K-Swap-Audit-Report.pdf" ><img width="20" src="./pdf.png" /></a>
 | Zk2048(ZKP)       |     Circom     |     <a  target="_blank" href="https://scalebit.xyz/reports/zk2048-Audit-Report.pdf" ><img width="20" src="./pdf.png" /></a>
 | zkHoldem(ZKP)       |     Arbitrum/Linea/Manta      |     <a  target="_blank" href="https://scalebit.xyz/reports/zkHoldem-Smart-Contract-Final-Audit-Report.pdf" ><img width="20" src="./pdf.png" /></a>
-| Zomma Protocol       |     Linea     |     <a  target="_blank" href="https://scalebit.xyz/reports/Zomma-Protocol-Final-Audit-Report.pdf" ><img width="20" src="./pdf.png" /></a>
+| Zomma Protocol       |     zkSync Era       |     <a  target="_blank" href="https://scalebit.xyz/reports/Zomma-Protocol-Final-Audit-Report.pdf" ><img width="20" src="./pdf.png" /></a>
 | IoTeX       |     IoTeX     |     Coming Soon
 | AWT IDO Claim       |     Polygon     |     <a href="./reports/AWT-IDO-Claim-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | iZUMi       |     zkSync     |     <a href="./reports/iZUMi-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
