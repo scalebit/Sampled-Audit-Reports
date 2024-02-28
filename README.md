@@ -2,6 +2,7 @@
 
 | Audit Name                        |   Chain   |                                  Audit Report                                   |
 | :----------------------------- | :---------: | :-----------------------------------------------------------------------: |
+| zksync-contract-v2        |     zkSync Era      |     <a  target="_blank" href="https://scalebit.xyz/reports/zksync-contract-v2-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Dola Protocol ETH        |     ETH      |     <a  target="_blank" href="https://scalebit.xyz/reports/Dola-Protocol-ETH-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Mirco3        |     BSC      |     <a  target="_blank" href="https://scalebit.xyz/reports/Mirco3-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | B2 network        |     B² Network      |     <a  target="_blank" href="https://scalebit.xyz/reports/B%C2%B2-Network-zkEVM-Preliminary-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
