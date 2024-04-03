@@ -2,7 +2,7 @@
 
 | Audit Name                        |   Chain   |                                  Audit Report                                   |
 | :----------------------------- | :---------: | :-----------------------------------------------------------------------: |
-| SpaceFinance        |     zkSync Era      |     <a  target="_blank" href="https://scalebit.xyz/reports/zksync-contract-v2-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| Camelot        |     Merlin Chain      |     <a  target="_blank" href="https://scalebit.xyz/reports/Camelot-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Dola Protocol ETH        |     ETH      |     <a  target="_blank" href="https://scalebit.xyz/reports/Dola-Protocol-ETH-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Mirco3        |     BSC      |     <a  target="_blank" href="https://scalebit.xyz/reports/Mirco3-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | B2 network        |     B² Network      |     <a  target="_blank" href="https://scalebit.xyz/reports/B%C2%B2-Network-zkEVM-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
