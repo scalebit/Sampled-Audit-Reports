@@ -2,7 +2,7 @@
 
 | Audit Name                        |   Chain   |                                  Audit Report                                   |
 | :----------------------------- | :---------: | :-----------------------------------------------------------------------: |
-| Kilo - Vault2         |     Manta       |     <a  target="_blank" href="https://scalebit.xyz/reports/Kilo---Vault2-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| KiloEx - Vault2         |     Manta       |     <a  target="_blank" href="https://scalebit.xyz/reports/Kilo---Vault2-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Camelot Protocol         |     Merlin       |     <a  target="_blank" href="https://scalebit.xyz/reports/Camelot-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Dola Protocol ETH        |     ETH      |     <a  target="_blank" href="https://scalebit.xyz/reports/Dola-Protocol-ETH-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Mirco3        |     BSC      |     <a  target="_blank" href="https://scalebit.xyz/reports/Mirco3-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
