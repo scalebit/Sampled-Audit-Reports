@@ -1,5 +1,5 @@
 # ScaleBit Sampled Audit Reports
-ScaleBit is a sub-brand under <a href="https://bitslab.xyz/" title="BitsLab">BitsLab</a>.
+<a href="https://scalebit.xyz/" title="ScaleBit">ScaleBit</a> is a sub-brand under <a href="https://bitslab.xyz/" title="BitsLab">BitsLab</a>.
 
 BitsLab - Securing and Building Emerging Web3 Ecosystems
 
