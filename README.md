@@ -13,7 +13,6 @@
 | KiloEx         |     Manta       |     <a  target="_blank" href="https://scalebit.xyz/reports/20240802-HybridVault-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | iCKB         |     CKB       |     <a  target="_blank" href="http://scalebit.xyz/reports/20240911-ICKB-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Satoshi Protocol         |     BTC       |     <a  target="_blank" href="https://scalebit.xyz/reports/Satoshi-Protocol-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
-| TerpLayer         |     Bitcoin       |     <a  target="_blank" href="https://scalebit.xyz/reports/Bitsmiley-Smart-Contract-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | ETH Storage Circuit         |     Ethereum       |     Coming Soon
 | SOON         |     Solana       |     <a  target="_blank" href="http://tonbit.xyz/reports/20241029-InterBridge-Relayer-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a> <a  target="_blank" href="http://tonbit.xyz/reports/20241029-InterBridge-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | bitSmiley         |     Bitcoin       |     <a  target="_blank" href="https://scalebit.xyz/reports/Bitsmiley-Smart-Contract-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
