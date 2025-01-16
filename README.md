@@ -2,21 +2,20 @@
 
 | Audit Name                        |   Chain   |                                  Audit Report                                   |
 | :----------------------------- | :---------: | :-----------------------------------------------------------------------: |
-
-| DuckChain         |     Bitcoin       |     <a  target="_blank" href="http://scalebit.xyz/reports/20241017-DuckChain-Bridge-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
-| Tabi         |     Bitcoin       |     Coming Soon
-| Lumoz         |     Bitcoin       |     <a  target="_blank" href="http://scalebit.xyz/reports/20241128-Lumoz-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
-| GOAT Network         |     Bitcoin       |     <a  target="_blank" href="https://scalebit.xyz/reports/20250115-GOAT-Network-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
-| Bima         |     Bitcoin       |     <a  target="_blank" href="http://scalebit.xyz/reports/20241023-Bima-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
-| Lorenzo Protocol         |     Bitcoin       |     <a  target="_blank" href="http://scalebit.xyz/reports/20250115-Lorenzo-Protocol-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
-| Zulu Network         |     Bitcoin       |     <a  target="_blank" href="http://scalebit.xyz/reports/20250115-Zulu-Network-Smart-Contract-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
-| BlockLords         |     Bitcoin       |     <a  target="_blank" href="http://scalebit.xyz/reports/20241120-BLOCKLORDS-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
-| KiloEx         |     Bitcoin       |     <a  target="_blank" href="https://scalebit.xyz/reports/20240802-HybridVault-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
-| iCKB         |     Bitcoin       |     <a  target="_blank" href="http://scalebit.xyz/reports/20240911-ICKB-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
-| Satoshi Protocol         |     Bitcoin       |     <a  target="_blank" href="https://scalebit.xyz/reports/Satoshi-Protocol-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| DuckChain         |     Ethereum       |     <a  target="_blank" href="http://scalebit.xyz/reports/20241017-DuckChain-Bridge-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| Tabi         |     Others       |     Coming Soon
+| Lumoz         |     Arbitrum       |     <a  target="_blank" href="http://scalebit.xyz/reports/20241128-Lumoz-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| GOAT Network         |     BTC       |     <a  target="_blank" href="https://scalebit.xyz/reports/20250115-GOAT-Network-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| Bima         |     BTC       |     <a  target="_blank" href="http://scalebit.xyz/reports/20241023-Bima-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| Lorenzo Protocol         |     BTC       |     <a  target="_blank" href="http://scalebit.xyz/reports/20250115-Lorenzo-Protocol-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| Zulu Network         |     BTC       |     <a  target="_blank" href="http://scalebit.xyz/reports/20250115-Zulu-Network-Smart-Contract-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| BlockLords         |     BSC       |     <a  target="_blank" href="http://scalebit.xyz/reports/20241120-BLOCKLORDS-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| KiloEx         |     Manta       |     <a  target="_blank" href="https://scalebit.xyz/reports/20240802-HybridVault-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| iCKB         |     CKB       |     <a  target="_blank" href="http://scalebit.xyz/reports/20240911-ICKB-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| Satoshi Protocol         |     BTC       |     <a  target="_blank" href="https://scalebit.xyz/reports/Satoshi-Protocol-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | TerpLayer         |     Bitcoin       |     <a  target="_blank" href="https://scalebit.xyz/reports/Bitsmiley-Smart-Contract-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
-| ETH Storage Circuit         |     Bitcoin       |     Coming Soon
-| SOON         |     Bitcoin       |     <a  target="_blank" href="http://tonbit.xyz/reports/20241029-InterBridge-Relayer-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a> <a  target="_blank" href="    http://tonbit.xyz/reports/20241029-InterBridge-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| ETH Storage Circuit         |     Ethereum       |     Coming Soon
+| SOON         |     Solana       |     <a  target="_blank" href="http://tonbit.xyz/reports/20241029-InterBridge-Relayer-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a> <a  target="_blank" href="    http://tonbit.xyz/reports/20241029-InterBridge-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | bitSmiley         |     Bitcoin       |     <a  target="_blank" href="https://scalebit.xyz/reports/Bitsmiley-Smart-Contract-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Satoshi Protocol         |     BEVM       |     <a  target="_blank" href="https://scalebit.xyz/reports/Satoshi-Protocol-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Bool Network         |     Bitcoin       |     <a  target="_blank" href="https://scalebit.xyz/reports/Bool-Network-Technical-Reliability-Report.pdf"><img width="20" src="./pdf.png" /></a>
